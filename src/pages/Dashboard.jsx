@@ -63,10 +63,10 @@ function Dashboard() {
           <ArrowLeft className="h-4 w-4 mr-1" />
           Back to form
         </Link>
-        <button className="btn btn-secondary inline-flex items-center">
+        {/* <button className="btn btn-secondary inline-flex items-center">
           <Download className="h-4 w-4 mr-2" />
           Export Report
-        </button>
+        </button> */}
       </div>
 
       <div className="card">
